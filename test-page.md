@@ -1,5 +1,5 @@
 ---
-title: Test Page
+# title: Test Page # Uncomment to readd to menu
 layout: page
 ---
 
