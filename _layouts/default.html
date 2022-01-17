@@ -18,18 +18,19 @@ layout: compress
   window.addEventListener("scroll", function (event) {
     var scroll = this.scrollY;
     var item = document.getElementsByClassName('navbar-item');
+    var scrollBorder1 = 565, scrollBorder2 = 813;
     /* console.log(scroll); */
-    if (scroll < 565) {
+    if (scroll < scrollBorder1) {
       item[1].classList.add('is-active');
       item[2].classList.remove('is-active');
       item[3].classList.remove('is-active');
     }
-    if (scroll > 565 && scroll < 1130) {
+    if (scroll > scrollBorder1 && scroll < scrollBorder2) {
       item[1].classList.remove('is-active');
       item[2].classList.add('is-active');
       item[3].classList.remove('is-active');
     }
-    if (scroll > 1130) {
+    if (scroll > scrollBorder2) {
       item[1].classList.remove('is-active');
       item[2].classList.remove('is-active');
       item[3].classList.add('is-active');
