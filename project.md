@@ -1,6 +1,6 @@
 ---
 layout: project
-# title: Projects # Uncomment to reenable this item in the menu
+title: Projects
 ---
 
 # TODO: replace the default layout with a cool separated card view, with lists of blog posts for projects (e.g. series)
