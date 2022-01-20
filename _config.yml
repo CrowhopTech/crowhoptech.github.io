@@ -19,38 +19,22 @@ site-keywords: Developer, Maker, Project
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-# TODO: update hero image
 heroimage: /assets/images/hero.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: akrpan@crowhop.tech
-# facebook_username: thedevslot
-# twitter_username: thedevslot
-# instagram_username: thedevslot
 linkedin_username: adam-krpan
 github_username:  CrowhopTech
 youtube_channel_id: UC7SXjEidIb2cS4QdCYjyl5A
 # reddit_username: /
-# behance_username: /
-# dribbble_username: /
-# spotify_username: /
 
 # Google Analytics
 # google-analytics: UA-163806439-1
 
-# Disqus
-# disqus-shortname: thedevslot
-
-# Name of the Author
 author-name: Adam Krpan
-# URL for the Image of the Author
-# TODO: author image
 author-image: /assets/images/profile.jpg
-# 60 Words About the Author
-# TODO: author description
 author-about: Software engineer, maker, and accumulator of projects, ideas, and shinies.
-# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/CrowhopTech
 
 # SASS
