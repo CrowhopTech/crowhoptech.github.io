@@ -1,5 +1,5 @@
 ---
-title: "My First \"Working\" Project, a HOTAS Throttle Prototype"
+title: "My First 'Working' Project, a HOTAS Throttle Prototype"
 layout: post
 post-image: "/assets/images/posts/2022-01-19-throttle-alpha-v0.1/front-perspective.jpg"
 description: My lessons learned, both planning and technical, from my first working prototype of my HOTAS throttle
